@@ -1,0 +1,15 @@
+{
+  "version": 4,
+  "terraform_version": "1.11.0",
+  "serial": 3,
+  "lineage": "e2bb8b83-c828-b60f-11f3-aca523b9e38b",
+  "outputs": {
+    "policy_arn": {
+      "value": "arn:aws:iam::711387095307:policy/custom_policy",
+      "type": "string"
+    }
+  },
+  "resources": [],
+  "check_results": null
+}
+
